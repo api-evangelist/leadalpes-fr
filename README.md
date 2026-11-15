@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lead Alpes provides automation and AI solutions for French SMEs, helping them streamline processes such as lead qualification, invoicing, CRM integration, and HR onboarding. Their mission is to make automation accessible without jargon, delivering measurable time savings and operational efficiency for small businesses.
+Lead Alpes provides automation and AI solutions for small and medium-sized enterprises (SMEs). Their platform offers workflows, CRM, reporting, and invoicing tools designed to streamline business processes without complex setups. By integrating various SaaS services, Lead Alpes helps companies automate repetitive tasks, improve data management, and enhance productivity across departments.
 
-**Areas:** Automation · AI · SME · France · Lead Generation · Company
+**Areas:** Automation · AI · SME · Workflow · CRM
 
 ## Lead Alpes on APIs.io
 
 Everything profiled for Lead Alpes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/leadalpes-fr/](https://apis.io/providers/leadalpes-fr/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Lead Alpes API](https://apis.io/apis/leadalpes-fr/lead-alpes-api/) — Automation and AI services API documented on the provider website. No machine‑readable contract was found despite probing common OpenAPI locations and the…
 
 ### Published properties
 
@@ -91,23 +87,21 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://leadalpes.fr/)
-- [Documentation](https://leadalpes.fr/ressources)
-- [Getting started](https://leadalpes.fr/audit)
 - [Terms of service](https://leadalpes.fr/mentions-legales)
 - [Privacy policy](https://leadalpes.fr/confidentialite)
 
 ## API Evangelist rating
 
-**Kin Score 12.2** — emerging · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 8.7** — minimal · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 21.4 |
-| Access clarity | 17.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
 
 **Agent readiness 3.1** — human-only
 
@@ -136,7 +130,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leadalpes-fr/](https://apis.io/providers/leadalpes-fr/).
 
